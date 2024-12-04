@@ -1,4 +1,3 @@
-import DropdownButton from "./components/dropdown";
 import Hero from "./components/hero";
 import { SecondSection } from "./components/secondsection";
 

@@ -1,4 +1,3 @@
-import Image from "next/image";
 import Top from "./top";
 import { NavigationMenuDemo } from "./navigationmenu";
 import Imagelogo from "./paklogo";
